@@ -3,7 +3,7 @@
 <table>
 <tr>
 <td>
-    
+    React from zero to expert course exercise with Fernando Herrera
 </td>
 </tr>
 </table>
